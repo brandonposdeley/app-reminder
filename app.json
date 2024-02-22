@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "74545d8a-c77b-43dc-8033-ea0cdf1a89b4"
+      }
+    },
+    "android": {
+      "package": "com.nahuel1001.calendar"
+    }
+  }
+}
